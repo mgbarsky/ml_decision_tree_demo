@@ -1,1 +1,3 @@
-# ml_decision_tree_demo
+# Decision trees demo
+
+Examples for the lecture on Decision trees.
